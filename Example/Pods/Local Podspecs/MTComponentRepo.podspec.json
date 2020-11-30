@@ -1,0 +1,22 @@
+{
+  "name": "MTComponentRepo",
+  "version": "0.1.0",
+  "summary": "A short description of MTComponentRepo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/6ee983846cec8224f266c949a961462d8d886c0e/MTComponentRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "6ee983846cec8224f266c949a961462d8d886c0e": "liyan01@souche.com"
+  },
+  "source": {
+    "git": "https://github.com/6ee983846cec8224f266c949a961462d8d886c0e/MTComponentRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MTComponentRepo/Classes/**/*"
+}

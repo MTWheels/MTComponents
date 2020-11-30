@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/6ee983846cec8224f266c949a961462d8d886c0e/MTComponentRepo'
+  s.homepage         = 'https://github.com/MTWheels/MTComponents'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '6ee983846cec8224f266c949a961462d8d886c0e' => 'liyan01@souche.com' }
-  s.source           = { :git => 'https://github.com/6ee983846cec8224f266c949a961462d8d886c0e/MTComponentRepo.git', :tag => s.version.to_s }
+  s.author           = { 'bluce_hn' => 'liyan01@souche.com' }
+  s.source           = { :git => 'https://github.com/MTWheels/MTComponents.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
